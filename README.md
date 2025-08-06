@@ -1,7 +1,7 @@
 # React + Vite
 
 ### 🔗 Live Demo  
-[vayuz](vayuz2.vercel.app)
+[vayuz](https://vayuz2-manish-ranjan-kumars-projects.vercel.app/)
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
